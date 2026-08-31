@@ -1,0 +1,43 @@
+---
+title: "Assignment 1: Introduction to Data Exploration"
+author: "Gina Givens"
+output: pdf_document
+---
+
+## OVERVIEW
+
+This exercise accompanies the introductory material in Environmental Data Exploration. 
+
+## Directions
+1.  Rename this file `<FirstLast>_A01_Introduction.Rmd` (replacing `<FirstLast>` with your first and last name).
+2.  Change "Student Name" on line 3 (above) with your name.
+3.  Work through the steps, **creating code and output** that fulfill each instruction.
+4.  Be sure to **answer the questions** in this assignment document.
+5.  When you have completed the assignment, **Knit** the text and code into a single PDF file.
+6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assignment section on Canvas.
+
+
+## 1) Discussion Questions
+Enter answers to the questions just below the >Answer: prompt.
+
+1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
+
+> Answer: During Undergrad, I was involved in environmental science where I believe I used R once as an example, but that is truly it. I have more experience with GIS because I took a required GIS course, but I unfourtunately do not have any R or Git training. It is something I have always wanted to learn. 
+
+2. Are there any components of the course about which you feel confident?
+
+> Answer: I am confident that I am going to have to watch some videos on youtube and go to office hours as much as I can. 
+
+3. Are there any components of the course about which you feel apprehensive?
+
+> Answer: I do feel apprehensive about some aspects of this course, but I believe I will work through those apprehensions. I am worried that I will forget the steps and language that innately comes with using RStudios. 
+
+
+## 2) GitHub
+
+Go over Tasks 1.1. through 1.6 on Course Setup page. Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
+
+> Answer: https://github.com/ginasophiagivens22/EDE_R_Lab_F26.git
+
+## 3) Knitting
+When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Canvas 
