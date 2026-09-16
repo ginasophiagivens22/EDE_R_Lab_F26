@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction to Data Exploration"
-author: "Gina Givens"
+author: "Gina Sophia Givens"
 output: pdf_document
 ---
 
